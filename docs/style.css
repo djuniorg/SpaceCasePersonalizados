@@ -553,7 +553,6 @@ img {
 
 .carousel-banner {
     width: 100%;
-    margin: auto;
     overflow: hidden;
     border-radius: 15px;
 }
@@ -574,7 +573,7 @@ img {
 .carousel-banner {
     position: relative;
     width: 100%;
-    margin-top: 0;
+    margin-top: 15px;
     overflow: hidden;
     border-radius: 15px;
 }
